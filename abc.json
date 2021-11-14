@@ -1,0 +1,18 @@
+{
+ "Cliente 1": {
+  "nome": "Luiz",
+  "idade": "25"
+ },
+ "Cliente 3": {
+  "nome": "Diego",
+  "idade": "45"
+ },
+ "Cliente 4": {
+  "nome": "Amanda",
+  "idade": "24"
+ },
+ "Cliente 2": {
+  "nome": "Gustavo",
+  "idade": "35"
+ }
+}
